@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "/Users/luweb/code/blockchain/ethereum"
+		},
+		{
+			"path": "/Users/luweb/code/blockchain/solcJ"
+		},
+		{
+			"path": "/Users/luweb/code/blockchain/ethereum/app"
+		},
+		{
+			"path": "/Users/luweb/code/blockchain/ethereumj"
+		}
+	],
+	"settings": {
+		"maven.view": "flat",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
